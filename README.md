@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Farouk Zouak</h1>
-<h3 align="center">An Artificial Intelligence Student & Android Developer from Algeria</h3>
+<h3 align="center">Artificial Intelligence Student & Android Developer from Algeria</h3>
 
 - 🌱 I’m currently learning **Quantum Computing & Data Science**
 
