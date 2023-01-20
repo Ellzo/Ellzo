@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Farouk Zouak</h1>
 <h3 align="center">An Artificial Intelligence Student & Android Developer from Algeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ellzo" alt="ellzo" /></a> </p>
-
 - 🌱 I’m currently learning **Quantum Computing & Data Science**
 
 - 💬 Ask me about **Android development**
