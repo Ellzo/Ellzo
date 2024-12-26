@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Farouk Zouak</h1>
-<h3 align="center">Artificial Intelligence Student & Android Developer from Algeria</h3>
+<h3 align="center">Data Scientist from Algeria</h3>
 
-- 🌱 I’m currently learning **Quantum Computing & Data Science**
+- 🌱 I’m currently learning **Quantum Computing**
 
-- 💬 Ask me about **Android development**
+- 💬 Ask me about **Artificial Intelligence**
 
 - 📫 How to reach me **omar.zouak@ensia.edu.dz**
 
