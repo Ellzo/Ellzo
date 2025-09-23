@@ -23,6 +23,9 @@
 
 ---
 
+# 📊 GitHub Stats:
+![ellzo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ellzo&theme=react-dark)
+
 ### 🌐 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/omarfaroukzouak" target="_blank">
