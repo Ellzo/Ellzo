@@ -23,7 +23,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![ellzo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ellzo&theme=react-dark)
 
 ### 🌐 Connect with Me  
